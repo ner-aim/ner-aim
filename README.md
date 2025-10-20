@@ -1,4 +1,5 @@
-## Hi there 👋
+## GUTEN TAG! 👋
+## I am Pradyumn K. Pottapatri!
 
 <!--
 **ner-aim/ner-aim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
