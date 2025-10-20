@@ -1,17 +1,60 @@
 ## GUTEN TAG! 👋
 ## I am Pradyumn K. Pottapatri!
 
-<!--
-**ner-aim/ner-aim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data scientist who ships. I like turning messy data into reliable systems that move real dollars. I have 4+ years of experience across analytics, ML engineering, and causal evaluation. My happy place is the intersection of Python, SQL, and product impact.
 
-Here are some ideas to get you started:
+Built pipelines that cut reporting latency by 90 percent for supplier negotiations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Uncovered multimillion dollar opportunities with SQL and Snowflake
+
+Delivered dashboards that speed up decisions for supply chain leaders
+
+What I am building now
+
+A practical LLM powered search and recommendation stack using RAG, vector search, and summarization
+
+Light, fast OCR and vision baselines in PyTorch
+
+Reproducible notebooks for time series evaluation and anomaly detection
+
+Experience highlights
+
+Stanley Black and Decker — automated data pipelines with dbt, Autosys, Python, Snowflake. Led cross functional meetings and negotiated supplier contracts
+
+ADP — built dynamic thresholding with time series forecasting in Splunk MLTK and reduced false positives by 85 percent
+
+Georgia State University — graduate research in NLP and statistics. Built topic models and taught R labs
+
+Skills and tools
+
+Languages: Python, C and C++, SQL, R, Spark, MATLAB
+
+Data and ML: Pandas, scikit learn, PyTorch, TensorFlow, XGBoost
+
+Platforms: Snowflake, AWS, Docker, dbt, Power BI, Tableau, Splunk MLTK
+
+Interests: Causal inference, information retrieval, time series, LLM applications
+
+My projects:
+
+LLM Powered Restaurant Name Generator — LangChain, Streamlit, Transformers. Repo
+
+Reinforcement Learning for self driving agents — custom NN with genetic AI in Unity C#. Demo · Code
+
+Capital One Fraud Detection MLOps — Flask and Docker web app for credit risk modeling. Repo
+
+Healthcare Causal Modeling — predictors of nurse retention using statsmodels and NLP
+
+Certifications
+
+AWS Certified Cloud Practitioner
+
+Andrew Ng AI Engineering, Machine Learning, Deep Learning specializations
+
+Let’s connect
+
+📫 Email: pottapatri@gmail.com
+
+💼 LinkedIn: linkedin.com/in/pottapatri
+
+🧰 GitHub: github.com/ner-aim
