@@ -3,19 +3,13 @@
 
 I am a data scientist who ships. I like turning messy data into reliable systems that move real dollars. I have 4+ years of experience across analytics, ML engineering, and causal evaluation. My happy place is the intersection of Python, SQL, and product impact.
 
-Built pipelines that cut reporting latency by 90 percent for supplier negotiations
-
-Uncovered multimillion dollar opportunities with SQL and Snowflake
-
-Delivered dashboards that speed up decisions for supply chain leaders
+- Built pipelines that cut reporting latency by 90 percent for supplier negotiations.
+- Uncovered multimillion dollar opportunities with SQL and Snowflake.
+- Delivered dashboards that speed up decisions for supply chain leaders.
 
 What I am building now
-
-A practical LLM powered search and recommendation stack using RAG, vector search, and summarization
-
-Light, fast OCR and vision baselines in PyTorch
-
-Reproducible notebooks for time series evaluation and anomaly detection
+- A practical LLM powered search and recommendation stack using RAG, vector search, and summarization.
+- Light, fast OCR and vision baselines in PyTorch.
 
 Experience highlights
 
