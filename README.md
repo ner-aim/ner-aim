@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=ner-aim)
 ## GUTEN TAG! 👋
 ### I am Pradyumn K. Pottapatri!
 
