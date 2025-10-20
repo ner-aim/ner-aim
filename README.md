@@ -1,7 +1,7 @@
 ## GUTEN TAG! 👋
 ### I am Pradyumn K. Pottapatri!
 
-I am a data scientist who ships. I like turning messy data into reliable systems that move real dollars. I have 4+ years of experience across analytics, ML engineering, and causal evaluation. My happy place is the intersection of Python, SQL, and product impact.
+I am a Machine Learning Engineer who ships. I like turning messy data into reliable systems that move real dollars. I have 4+ years of experience across analytics, ML engineering, and causal evaluation. My happy place is the intersection of Python, SQL, and product impact.
 
 - Built pipelines that cut reporting latency by 90 percent for supplier negotiations.
 - Uncovered multimillion dollar opportunities with SQL and Snowflake.
