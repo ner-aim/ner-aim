@@ -13,11 +13,9 @@ What I am building now
 
 Experience highlights
 
-Stanley Black and Decker — automated data pipelines with dbt, Autosys, Python, Snowflake. Led cross functional meetings and negotiated supplier contracts
-
-ADP — built dynamic thresholding with time series forecasting in Splunk MLTK and reduced false positives by 85 percent
-
-Georgia State University — graduate research in NLP and statistics. Built topic models and taught R labs
+- Stanley Black and Decker: automated data pipelines with dbt, Autosys, Python, Snowflake. Led cross functional meetings and negotiated supplier contracts
+- ADP: built dynamic thresholding with time series forecasting in Splunk MLTK and reduced false positives by 85 percent
+- Georgia State University: graduate research in NLP, Time Series and statistics. Built topic models, time series models and taught R labs
 
 Skills and tools
 
