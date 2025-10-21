@@ -20,34 +20,27 @@ Experience highlights
 
 Skills and tools
 
-Languages: Python, C and C++, SQL, R, Spark, MATLAB
-
-Data and ML: Pandas, scikit learn, PyTorch, TensorFlow, XGBoost
-
-Platforms: Snowflake, AWS, Docker, dbt, Power BI, Tableau, Splunk MLTK
-
-Interests: Causal inference, information retrieval, time series, LLM applications
+- Languages: Python, C and C++, SQL, R, Spark, MATLAB
+- Data and ML: Pandas, scikit learn, PyTorch, TensorFlow, XGBoost
+- Platforms: Snowflake, AWS, Docker, dbt, Power BI, Tableau, Splunk MLTK
+- Interests: Causal inference, information retrieval, time series, LLM applications
 
 My projects:
 
-LLM Powered Restaurant Name Generator — LangChain, Streamlit, Transformers. Repo
-
-Reinforcement Learning for self driving agents — custom NN with genetic AI in Unity C#. Demo · Code
-
-Capital One Fraud Detection MLOps — Flask and Docker web app for credit risk modeling. Repo
-
-Healthcare Causal Modeling — predictors of nurse retention using statsmodels and NLP
+- LLM Powered Restaurant Name Generator — LangChain, Streamlit, Transformers. Repo
+- Reinforcement Learning for self driving agents — custom NN with genetic AI in Unity C#. Demo · Code
+- Capital One Fraud Detection MLOps — Flask and Docker web app for credit risk modeling. Repo
+- Healthcare Causal Modeling — predictors of nurse retention using statsmodels and NLP
 
 Certifications
 
-AWS Certified Cloud Practitioner
-
-Andrew Ng AI Engineering, Machine Learning, Deep Learning specializations
+- AWS Certified Cloud Practitioner
+- Machine Learning
+- Deep Learning specializations
+- AI Engineer
 
 Let’s connect
 
-📫 Email: pottapatri@gmail.com
-
-💼 LinkedIn: linkedin.com/in/pottapatri
-
+📫 Email: pottapatri@gmail.com 
+💼 LinkedIn: linkedin.com/in/pottapatri 
 🧰 GitHub: github.com/ner-aim
