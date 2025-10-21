@@ -27,10 +27,10 @@ Skills and tools
 
 My projects:
 
-- LLM Powered Restaurant Name Generator — LangChain, Streamlit, Transformers. Repo
-- Reinforcement Learning for self driving agents — custom NN with genetic AI in Unity C#. Demo · Code
-- Capital One Fraud Detection MLOps — Flask and Docker web app for credit risk modeling. Repo
-- Healthcare Causal Modeling — predictors of nurse retention using statsmodels and NLP
+- LLM Powered Restaurant Name Generator | LangChain, Streamlit, Transformers. Repo
+- Reinforcement Learning for self driving agents | custom NN with genetic AI in Unity C#. Demo · Code
+- Capital One Fraud Detection MLOps | Flask and Docker web app for credit risk modeling. Repo
+- Healthcare Causal Modeling | predictors of nurse retention using statsmodels and NLP
 
 Certifications
 
