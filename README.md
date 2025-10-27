@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-pottapatri%40gmail.com-red?logo=gmail&logoColor=white)](mailto:pottapatri@gmail.com)  
 
 ## GUTEN TAG! 👋
-### I am Pradyumn K. Pottapatri!
+### I am Pradyumn K. Pottapatri! You can call me Sid!
 
 ## 🧠 About Me  
 
