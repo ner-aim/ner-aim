@@ -22,7 +22,7 @@ I’m a **Data Scientist / Machine Learning Engineer** with **4+ years of experi
 
 - **Languages:** Python, C/C++, SQL, R  
 - **Frameworks:** PyTorch, TensorFlow, scikit-learn, LangChain, OpenCV  
-- **ML Focus:** CNNs, Time-Series Forecasting, NLP, Reinforcement Learning, Bayesian Inference  
+- **ML Focus:** CNNs, Time-Series Forecasting, NLP, Reinforcement Learning, Bayesian Inference, GenAI
 - **Data Engineering:** dbt, Autosys, Snowflake, Spark, Hadoop, ETL Pipelines  
 - **Visualization:** Power BI, Matplotlib, Plotly  
 - **Cloud & Infra:** AWS (Lambda, S3, RDS, Redshift), Azure  
