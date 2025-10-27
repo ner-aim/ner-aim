@@ -60,9 +60,10 @@ Automated data aggregation from SAP ECC forecasts, Snowflake, and dbt to acceler
 
 ## 🧩 Projects  
 
-- 🧠 **Healthcare Causal Modeling** — Identified 7 key predictors of nurse burnout via causal inference and NLP.  
+- 🧠 **Healthcare Causal Modeling**  Identified 7 key predictors of nurse burnout via causal inference and NLP.  
 - 💬 **Restaurant Name Generator** — Built an LLM app with LangChain + Streamlit to generate creative, cuisine-specific brand ideas.  
-- 🚗 **Reinforcement Learning for Self-Driving Agents** — Designed evolutionary agents via genetic algorithms and neural architecture tuning.  
+- 🚗 **Reinforcement Learning for Self-Driving Agents** — Designed evolutionary agents via genetic algorithms and neural architecture tuning.
+ 
 Certifications
 
 - AWS Certified Cloud Practitioner
@@ -70,4 +71,7 @@ Certifications
 - Deep Learning specializations
 - AI Engineer
 
-Let’s connect
+---
+
+⭐️ *Exploring the boundary between model interpretability, personalization, and generative creativity — one custom layer at a time.*  Hit me up at any platform if you'd like to connect!
+
