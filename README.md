@@ -73,5 +73,5 @@ Certifications
 
 ---
 
-⭐️ *Exploring the boundary between model interpretability, personalization, and generative creativity — one custom layer at a time.*  Hit me up at any platform if you'd like to connect!
+⭐️ *Exploring the boundary between model interpretability, personalization, one custom layer at a time.  Hit me up at any platform if you'd like to connect!*
 
