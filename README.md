@@ -13,7 +13,7 @@
 
 I’m a **Data Scientist / Machine Learning Engineer** with **4+ years of experience** building scalable ML systems, supporting supply chain strategy, time-series pipelines for anomaly detection, applied AI solutions in **supply chain and analytics** domains.  
 
-- 🧩 Currently exploring **Computer Vision and Generative AI**, developing a **custom CNN layer** that learns my photo-editing patterns and applies similar transformations autonomously; a fusion of *style transfer* and *personalized learning*.  
+- 🧩 Currently exploring **Computer Vision, Gen AI**, developing a **custom CNN layer** that learns my photo-editing patterns and applies similar transformations autonomously; a fusion of *style transfer* and *personalized learning*.  
 - 🚀 At **Stanley Black & Decker**, I automated procurement pipelines and A/B-tested email campaigns, driving **$18M+ in measurable impact**.  
 - ⚙️ At **ADP**, I engineered a dynamic thresholding system in Splunk that reduced false alerts by **85%**.
 - 📊 Passionate about **experiments, causal inference, building interpretable ML systems**. Advocate for ethical AI use in business and human context.  
