@@ -18,25 +18,35 @@ I’m a **Data Scientist / Machine Learning Engineer** with **4+ years of experi
 - ⚙️ At **ADP**, I engineered a dynamic thresholding system in Splunk that reduced false alerts by **85%**.
 - 📊 Passionate about **experiments, causal inference, building interpretable ML systems**. Advocate for ethical AI use in business and human context.  
 
-Experience highlights
+# 🛠️ Technical Skills  
 
-- Stanley Black and Decker: automated data pipelines with dbt, Autosys, Python, Snowflake. Led cross functional meetings and negotiated supplier contracts
-- ADP: built dynamic thresholding with time series forecasting in Splunk MLTK and reduced false positives by 85 percent
-- Georgia State University: graduate research in NLP, Time Series and statistics. Built topic models, time series models and taught R labs
+- **Languages:** Python, C/C++, SQL, R  
+- **Frameworks:** PyTorch, TensorFlow, scikit-learn, LangChain, OpenCV  
+- **ML Focus:** CNNs, Time-Series Forecasting, NLP, Reinforcement Learning, Bayesian Inference  
+- **Data Engineering:** dbt, Autosys, Snowflake, Spark, Hadoop, ETL Pipelines  
+- **Visualization:** Power BI, Matplotlib, Plotly  
+- **Cloud & Infra:** AWS (Lambda, S3, RDS, Redshift), Azure  
+- **Specialties:** Model Optimization, Statistical Analysis, Causal Experiments, MLOps, A/B Testing  
 
-Skills and tools
+---
 
-- Languages: Python, C and C++, SQL, R, Spark, MATLAB
-- Data and ML: Pandas, scikit learn, PyTorch, TensorFlow, XGBoost
-- Platforms: Snowflake, AWS, Docker, dbt, Power BI, Tableau, Splunk MLTK
-- Interests: Causal inference, information retrieval, time series, LLM applications
+## 🔬 Current Research Project — *“CineMorph”*  
 
-My projects:
+### 🎯 Goal  
+To design a **custom Convolutional Neural Network layer** capable of learning and replicating my personal image-editing style.  
+The system aims to **capture transformation intent** — not just color shifts — by modeling latent adjustments from before/after edit pairs.  
 
-- LLM Powered Restaurant Name Generator | LangChain, Streamlit, Transformers. Repo
-- Reinforcement Learning for self driving agents | custom NN with genetic AI in Unity C#. Demo · Code
-- Capital One Fraud Detection MLOps | Flask and Docker web app for credit risk modeling. Repo
-- Healthcare Causal Modeling | predictors of nurse retention using statsmodels and NLP
+### ⚙️ Key Components  
+- **Data Generation:** Using personal edited/unedited image pairs as supervised training examples.  
+- **Model Architecture:** CNN backbone (ResNet-style) with a **custom delta layer** that learns adjustment residuals.  
+- **Loss Functions:** Combination of MSE (pixel difference) and perceptual loss (VGG features).  
+- **Training Setup:** PyTorch, fastai, custom dataloader, augmentation pipelines.  
+- **Planned Extensions:** Integrating **reinforcement learning** to refine edit confidence, and **LLM-based tagging** for semantic edit context.  
+
+### 🧩 Expected Outcome  
+An “auto-edit” model capable of generalizing my editing signature — creating a personalized, generative photo assistant.  
+
+---
 
 Certifications
 
