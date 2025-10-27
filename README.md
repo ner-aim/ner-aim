@@ -7,15 +7,14 @@
 ## GUTEN TAG! 👋
 ### I am Pradyumn K. Pottapatri!
 
-I am a Machine Learning Engineer who ships. I like turning messy data into reliable systems that move real dollars. I have 4+ years of experience across analytics, ML engineering, and causal evaluation. My happy place is the intersection of Python, SQL, and product impact.
+## 🧠 About Me  
 
-- Built pipelines that cut reporting latency by 90 percent for supplier negotiations.
-- Uncovered multimillion dollar opportunities with SQL and Snowflake.
-- Delivered dashboards that speed up decisions for supply chain leaders.
+I’m a **Data Scientist / Machine Learning Engineer** with **4+ years of experience** building scalable ML systems, time-series pipelines, and applied AI solutions in **supply chain and analytics** domains.  
 
-What I am building now
-- A practical LLM powered search and recommendation stack using RAG, vector search, and summarization.
-- Light, fast OCR and vision baselines in PyTorch.
+- 🧩 Currently exploring **Computer Vision and Generative AI**, developing a **custom CNN layer** that learns my photo-editing patterns and applies similar transformations autonomously — a fusion of *style transfer* and *personalized learning*.  
+- 🚀 At **Stanley Black & Decker**, I automated procurement pipelines and A/B-tested supplier engagement models, driving **$18M+ in measurable impact**.  
+- ⚙️ At **ADP**, I engineered a dynamic thresholding system in Splunk that reduced false alerts by **85%**, blending **Kalman Filters** and **Exponential Smoothing** to improve production reliability.  
+- 📊 Passionate about **experiments, causal inference, and building interpretable ML systems** — always grounding AI solutions in business and human context.  
 
 Experience highlights
 
