@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ner-aim)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PradyumnPottapatri-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/pottapatri)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pottapatri-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/pottapatri)  
 [![GitHub](https://img.shields.io/badge/GitHub-ner--aim-black?logo=github)](https://github.com/ner-aim)  
 [![Email](https://img.shields.io/badge/Email-pottapatri%40gmail.com-red?logo=gmail&logoColor=white)](mailto:pottapatri@gmail.com)  
 
