@@ -30,11 +30,11 @@ I’m a **Data Scientist / Machine Learning Engineer** with **4+ years of experi
 
 ---
 
-## 🔬 Current Research Project — *“CineMorph”*  
+## 🔬 Current Research Project : *“CineMorph”*  
 
 ### 🎯 Goal  
 To design a **custom Convolutional Neural Network layer** capable of learning and replicating my personal image-editing style.  
-The system aims to **capture transformation intent** — not just color shifts — by modeling latent adjustments from before/after edit pairs.  
+The system aims to **capture transformation intent**, not just color shifts; by modeling latent adjustments from before/after edit pairs.  
 
 ### ⚙️ Key Components  
 - **Data Generation:** Using personal edited/unedited image pairs as supervised training examples.  
@@ -44,7 +44,7 @@ The system aims to **capture transformation intent** — not just color shifts �
 - **Planned Extensions:** Integrating **reinforcement learning** to refine edit confidence, and **LLM-based tagging** for semantic edit context.  
 
 ### 🧩 Expected Outcome  
-An “auto-edit” model capable of generalizing my editing signature — creating a personalized, generative photo assistant.  
+An “auto-edit” model capable of generalizing my editing signature; creating a personalized, generative photo assistant.  
 
 ---
 
