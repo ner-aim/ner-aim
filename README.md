@@ -50,19 +50,19 @@ An “auto-edit” model capable of generalizing my editing signature; creating 
 
 ## 📂 Featured Work  
 
-### 🧭 Noise Reduction in Splunk Alerts – ADP  
+### 🧭 Noise Reduction in Splunk Alerts  @ ADP  
 Reduced **85% alert noise** and improved DevOps signal clarity using Kalman Filters and Exponential Smoothing within Splunk’s ML Toolkit. Designed a reusable ML pipeline and benchmarked ITS experiments for model reliability.  
 
-### 🏭 Procurement Optimization – Stanley Black & Decker  
-Automated data aggregation from SAP ECC forecasts, Snowflake, and dbt to accelerate supplier negotiation reports by **90%**. Delivered A/B experiments that increased supplier engagement **by 40%** and improved profitability by **$12M+**.  
+### 🏭 Procurement Optimization @ Stanley Black & Decker  
+Automated data aggregation from SAP ECC forecasts, Snowflake, to accelerate supplier negotiation reports by **90%**. Delivered A/B experiments and improved profitability by **$12M+**.  
 
 ---
 
 ## 🧩 Projects  
 
-- 🧠 **Healthcare Causal Modeling**  Identified 7 key predictors of nurse burnout via causal inference and NLP.  
-- 💬 **Restaurant Name Generator** — Built an LLM app with LangChain + Streamlit to generate creative, cuisine-specific brand ideas.  
-- 🚗 **Reinforcement Learning for Self-Driving Agents** — Designed evolutionary agents via genetic algorithms and neural architecture tuning.
+- 🧠 **Healthcare Causal Modeling**:  Identified 7 key predictors of nurse burnout via causal inference and NLP.  
+- 💬 **Restaurant Name Generator**: Built an LLM app with LangChain + Streamlit to generate creative, cuisine-specific brand ideas.  
+- 🚗 **Reinforcement Learning for Self-Driving Agents**: Designed evolutionary agents via genetic algorithms and neural architecture tuning.
  
 Certifications
 
