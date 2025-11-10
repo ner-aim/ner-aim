@@ -60,7 +60,7 @@ Automated data aggregation from SAP ECC forecasts, Snowflake, to accelerate supp
 
 ## 🧩 Projects  
 
-- 🧠 **Healthcare Causal Modeling**:  Identified 7 key predictors of nurse burnout via causal inference and NLP.  
+- 🛰️ **Customer Churn Prediction**: Built an end-to-end ML pipeline using XGBoost, FastAPI, Docker, and MLflow to predict customer churn.  
 - 💬 **Restaurant Name Generator**: Built an LLM app with LangChain + Streamlit to generate creative, cuisine-specific brand ideas.  
 - 🚗 **Reinforcement Learning for Self-Driving Agents**: Designed evolutionary agents via genetic algorithms and neural architecture tuning.
  
