@@ -14,7 +14,7 @@
 I’m a **Data Scientist / Machine Learning Engineer** with **4+ years of experience** building scalable ML systems, supporting supply chain strategy, time-series pipelines for anomaly detection, applied AI solutions for driving multimillion dollar impact.  
 
 - 🧩 Currently exploring **Computer Vision, Gen AI**, developing a **custom CNN layer** that learns my photo-editing patterns and applies similar transformations autonomously; a fusion of *style transfer* and *personalized learning*.  
-- 🚀 At **Stanley Black & Decker**, I automated procurement pipelines and A/B-tested email campaigns, driving **$18M+ in measurable impact**.  
+- 🚀 At **Stanley Black & Decker**, I automated procurement pipelines and A/B-tested email campaigns, driving **$12M+ in measurable impact**.  
 - ⚙️ At **ADP**, I engineered a dynamic thresholding system in Splunk that reduced false alerts by **85%**.
 - 📊 Passionate about **experiments, causal inference, building interpretable ML systems**. Advocate for ethical AI use in business and human context.  
 
@@ -51,7 +51,7 @@ An “auto-edit” model capable of generalizing my editing signature; creating 
 ## 📂 Featured Work  
 
 ### 🧭 Noise Reduction in Splunk Alerts  @ ADP  
-Reduced **85% alert noise** and improved DevOps signal clarity using Kalman Filters and Exponential Smoothing within Splunk’s ML Toolkit. Designed a reusable ML pipeline and benchmarked ITS experiments for model reliability.  
+Reduced **85% alert noise** and improved DevOps signal clarity using Kalman Filters and Exponential Smoothing within Splunk’s ML Toolkit. Designed a reusable ML pipeline through shadow deployment for model reliability.  
 
 ### 🏭 Procurement Optimization @ Stanley Black & Decker  
 Automated data aggregation from SAP ECC forecasts, Snowflake, to accelerate supplier negotiation reports by **90%**. Delivered A/B experiments and improved profitability by **$12M+**.  
@@ -61,7 +61,6 @@ Automated data aggregation from SAP ECC forecasts, Snowflake, to accelerate supp
 ## 🧩 Projects  
 
 - 🛰️ **Customer Churn Prediction**: Built an end-to-end ML pipeline using XGBoost, FastAPI, Docker, and MLflow to predict customer churn.  
-- 💬 **Restaurant Name Generator**: Built an LLM app with LangChain + Streamlit to generate creative, cuisine-specific brand ideas.  
 - 🚗 **Reinforcement Learning for Self-Driving Agents**: Designed evolutionary agents via genetic algorithms and neural architecture tuning.
  
 Certifications
