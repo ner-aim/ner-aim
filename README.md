@@ -13,8 +13,8 @@
 
 I’m a **Data Scientist / Machine Learning Engineer** with **4+ years of experience** building scalable ML systems, supporting supply chain strategy, time-series pipelines for anomaly detection, applied AI solutions for driving multimillion dollar impact.  
 
-- 🧩 Currently exploring **Computer Vision, Gen AI**, developing a **custom CNN layer** that learns my photo-editing patterns and applies similar transformations autonomously; a fusion of *style transfer* and *personalized learning*.  
-- 🚀 At **Stanley Black & Decker**, I automated procurement pipelines and A/B-tested email campaigns, driving **$12M+ in measurable impact**.  
+- 🧩 Currently exploring **Causal Inference** applied to learning systems — modeling knowledge retention and optimizing study patterns using Anki flashcard data.  
+- 🚀 At **Stanley Black & Decker**, I build and scale ML-driven solutions across procurement and supply chain, contributing to **$12M+ in measurable impact**.  
 - ⚙️ At **ADP**, I engineered a dynamic thresholding system in Splunk that reduced false alerts by **85%**.
 - 📊 Passionate about **experiments, causal inference, building interpretable ML systems**. Advocate for ethical AI use in business and human context.  
 
@@ -30,36 +30,19 @@ I’m a **Data Scientist / Machine Learning Engineer** with **4+ years of experi
 
 ---
 
-## 🔬 Current Research Project : *“CineMorph”*  
-
-### 🎯 Goal  
-To design a **custom Convolutional Neural Network layer** capable of learning and replicating my personal image-editing style.  
-The system aims to **capture transformation intent**, not just color shifts; by modeling latent adjustments from before/after edit pairs.  
-
-### ⚙️ Key Components  
-- **Data Generation:** Using personal edited/unedited image pairs as supervised training examples.  
-- **Model Architecture:** CNN backbone (ResNet-style) with a **custom delta layer** that learns adjustment residuals.  
-- **Loss Functions:** Combination of MSE (pixel difference) and perceptual loss (VGG features).  
-- **Training Setup:** PyTorch, fastai, custom dataloader, augmentation pipelines.  
-- **Planned Extensions:** Integrating **reinforcement learning** to refine edit confidence, and **LLM-based tagging** for semantic edit context.  
-
-### 🧩 Expected Outcome  
-An “auto-edit” model capable of generalizing my editing signature; creating a personalized, generative photo assistant.  
-
----
-
 ## 📂 Featured Work  
 
 ### 🧭 Noise Reduction in Splunk Alerts  @ ADP  
 Reduced **85% alert noise** and improved DevOps signal clarity using Kalman Filters and Exponential Smoothing within Splunk’s ML Toolkit. Designed a reusable ML pipeline through shadow deployment for model reliability.  
 
 ### 🏭 Procurement Optimization @ Stanley Black & Decker  
-Automated data aggregation from SAP ECC forecasts, Snowflake, to accelerate supplier negotiation reports by **90%**. Delivered A/B experiments and improved profitability by **$12M+**.  
+Automated data aggregation from SAP ECC forecasts and Snowflake to accelerate supplier negotiation reports by **90%**, driving **$12M+** in measurable profitability impact.  
 
 ---
 
 ## 🧩 Projects  
 
+- 📚 **Causal Inference for Learning Optimization**: Applying causal inference methods to Anki flashcard review data to model knowledge retention, identify drivers of long-term recall, and optimize study scheduling.  
 - 🛰️ **Customer Churn Prediction**: Built an end-to-end ML pipeline using XGBoost, FastAPI, Docker, and MLflow to predict customer churn.  
 - 🚗 **Reinforcement Learning for Self-Driving Agents**: Designed evolutionary agents via genetic algorithms and neural architecture tuning.
  
@@ -72,5 +55,5 @@ Certifications
 
 ---
 
-⭐️ *Exploring the boundary between model interpretability, personalization, one custom layer at a time.  Hit me up at any platform if you'd like to connect!*
+⭐️ *Exploring the boundary between causal inference, model interpretability, and real-world impact — one dataset at a time. Hit me up on any platform if you'd like to connect!*
 
