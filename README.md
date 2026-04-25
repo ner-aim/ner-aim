@@ -13,7 +13,7 @@
 
 I’m a **Data Scientist / Machine Learning Engineer** with **4+ years of experience** building scalable ML systems, supporting supply chain strategy, time-series pipelines for anomaly detection, applied AI solutions for driving multimillion dollar impact.  
 
-- 🧩 Currently exploring **Causal Inference** applied to learning systems — modeling knowledge retention and optimizing study patterns using Anki flashcard data.  
+- 🧩 Currently exploring **Causal Inference** applied to learning systems, modeling knowledge retention and optimizing study patterns using Anki flashcard data.  
 - 🚀 At **Stanley Black & Decker**, I build and scale ML-driven solutions across procurement and supply chain, contributing to **$12M+ in measurable impact**.  
 - ⚙️ At **ADP**, I engineered a dynamic thresholding system in Splunk that reduced false alerts by **85%**.
 - 📊 Passionate about **experiments, causal inference, building interpretable ML systems**. Advocate for ethical AI use in business and human context.  
@@ -55,5 +55,5 @@ Certifications
 
 ---
 
-⭐️ *Exploring the boundary between causal inference, model interpretability, and real-world impact — one dataset at a time. Hit me up on any platform if you'd like to connect!*
+⭐️ *Exploring the boundary between causal inference, model interpretability, and real-world impact, one dataset at a time. Hit me up on any platform if you'd like to connect!*
 
