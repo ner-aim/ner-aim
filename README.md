@@ -44,7 +44,6 @@ Automated data aggregation from SAP ECC forecasts and Snowflake to accelerate su
 
 - 📚 **Causal Inference for Learning Optimization**: Applying causal inference methods to Anki flashcard review data to model knowledge retention, identify drivers of long-term recall, and optimize study scheduling.  
 - 🛰️ **Customer Churn Prediction**: Built an end-to-end ML pipeline using XGBoost, FastAPI, Docker, and MLflow to predict customer churn.  
-- 🚗 **Reinforcement Learning for Self-Driving Agents**: Designed evolutionary agents via genetic algorithms and neural architecture tuning.
  
 Certifications
 
