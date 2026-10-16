@@ -41,7 +41,7 @@ I build data platforms, RAG systems and agents that people actually use. Five ye
 
 ## Background
 
-MS in Data Science and Analytics (Georgia State University, GPA 3.89) · BS in Computer Science (ABV-IIITM Gwalior) · AWS Certified Cloud Practitioner
+MS in Data Science and Analytics (Georgia State University, GPA 3.89) · BS in Computer Science (ABV-IIITM Gwalior) · Certifications: AWS Certified Cloud Practitioner, DataCamp AI Engineer, Coursera Machine Learning, DeepLearning.AI Deep Learning
 
 ---
 
