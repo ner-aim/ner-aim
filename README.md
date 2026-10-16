@@ -5,54 +5,46 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pottapatri-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/pottapatri)  
 [![GitHub](https://img.shields.io/badge/GitHub-ner--aim-black?logo=github)](https://github.com/ner-aim)  
 [![Email](https://img.shields.io/badge/Email-pottapatri%40gmail.com-red?logo=gmail&logoColor=white)](mailto:pottapatri@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-pottapatri-E4405F?logo=instagram&logoColor=white)](https://instagram.com/pottapatri)  
 
 ## GUTEN TAG! 👋
 ### I am Pradyumn K. Pottapatri! You can call me Sid!
 
-## 🧠 About Me  
+I build data platforms, RAG systems and agents that people actually use. Five years in data and AI, most recently as the only data person in a 250-person procurement org at Stanley Black & Decker (2023 to 2026), where I worked directly with finance, engineering and suppliers.
 
-I’m a **Data Scientist / Machine Learning Engineer** with **4+ years of experience** building scalable ML systems, supporting supply chain strategy, time-series pipelines for anomaly detection, applied AI solutions for driving multimillion dollar impact.  
+**Open to:** Forward-Deployed Engineer, AI Engineer and Data Engineer roles in the US.
 
-- 🧩 Currently exploring **Causal Inference** applied to learning systems, modeling knowledge retention and optimizing study patterns using Anki flashcard data.  
-- 🚀 At **Stanley Black & Decker**, I build and scale ML-driven solutions across procurement and supply chain, contributing to **$12M+ in measurable impact**.  
-- ⚙️ At **ADP**, I engineered a dynamic thresholding system in Splunk that reduced false alerts by **85%**.
-- 📊 Passionate about **experiments, causal inference, building interpretable ML systems**. Advocate for ethical AI use in business and human context.  
+## Selected work (internal, closed source)
 
-# 🛠️ Technical Skills  
+| What | Result |
+|---|---|
+| RAG chatbot over procurement reports | **98% cut in retrieval time** (3 days to 30 min); grew from 7 to **50+ users** after user interviews surfaced 11 information needs |
+| Snowflake Cortex agent (text-to-SQL + semantic search) | **85% tool-selection accuracy**, **92% answer accuracy** on a 110-question eval built from 25+ analyst interviews; piloted with a 7-person team |
+| Snowflake + dbt platform on SAP data | **5M+ transactions/day**; report refresh cut from 15 to 20 minutes to **under 1 minute** |
+| Contracted-inventory reconciliation with finance and engineering | **$37M** recovered ($25.6M + $11.8M) |
 
-- **Languages:** Python, C/C++, SQL, R  
-- **Frameworks:** PyTorch, TensorFlow, scikit-learn, LangChain, OpenCV  
-- **ML Focus:** CNNs, Time-Series Forecasting, NLP, Reinforcement Learning, Bayesian Inference, GenAI
-- **Data Engineering:** dbt, Autosys, Snowflake, Spark, Hadoop, ETL Pipelines  
-- **Visualization:** Power BI, Matplotlib, Plotly  
-- **Cloud & Infra:** AWS (Lambda, S3, RDS, Redshift), Azure  
-- **Specialties:** Model Optimization, Statistical Analysis, Causal Experiments, MLOps, A/B Testing  
+## Public projects
 
----
+- **[A/B Test Readout Agent](https://github.com/ner-aim/ab-test-readout-agent)**: CLI + Streamlit app that analyzes a two-variant experiment, runs a sample-ratio-mismatch check (SRM p < 0.001 forces "inconclusive"), and drafts a stakeholder readout with one GPT-5.6 call and self-checks it with a second. Python, MIT license.
+- **[Customer Churn Prediction](https://github.com/ner-aim/Customer-Churn-Project)**: Optuna-tuned XGBoost with SHAP explanations, served by FastAPI in Docker and deployed to AWS ECS/Fargate through GitHub Actions. 92%+ recall at under 10 ms inference.
+- **[Causal inference on spaced-repetition data](https://ankijp.streamlit.app/)**: live Streamlit app with a 61-day RCT (3,490 notes) and Double ML with 5-fold cross-fitting.
+- **[Smart Collections prototype](https://smart-collections.streamlit.app)**: a recommendation prototype for Adobe Lightroom built on synthetic catalog data.
+- **[Reinforcement learning with Unity](https://github.com/ner-aim/Reinforcement-Learning-using-Unity)**: earlier work.
 
-## 📂 Featured Work  
+## Stack
 
-### 🧭 Noise Reduction in Splunk Alerts  @ ADP  
-Reduced **85% alert noise** and improved DevOps signal clarity using Kalman Filters and Exponential Smoothing within Splunk’s ML Toolkit. Designed a reusable ML pipeline through shadow deployment for model reliability.  
+**Languages:** Python, SQL, R, C/C++  
+**Data:** Snowflake, dbt, AWS (S3, Lambda, EC2, ECS/Fargate, QuickSight)  
+**LLM:** RAG, text-to-SQL and tool-using agents, LLM-as-judge evaluation, OpenAI and Anthropic models  
+**ML and stats:** scikit-learn, XGBoost, PyTorch, TensorFlow, MLflow, SHAP, A/B testing, causal inference (DoWhy, CausalForestDML, Double ML)  
+**Tooling:** Docker, GitHub Actions, FastAPI, Streamlit, Power BI  
 
-### 🏭 Procurement Optimization @ Stanley Black & Decker  
-Automated data aggregation from SAP ECC forecasts and Snowflake to accelerate supplier negotiation reports by **90%**, driving **$12M+** in measurable profitability impact.  
+## Background
 
----
-
-## 🧩 Projects  
-
-- 📚 **Causal Inference for Learning Optimization**: Applying causal inference methods to Anki flashcard review data to model knowledge retention, identify drivers of long-term recall, and optimize study scheduling.  
-- 🛰️ **Customer Churn Prediction**: Built an end-to-end ML pipeline using XGBoost, FastAPI, Docker, and MLflow to predict customer churn.  
- 
-Certifications
-
-- AWS Certified Cloud Practitioner
-- Machine Learning
-- Deep Learning specializations
-- AI Engineer
+MS in Data Science and Analytics (Georgia State University, GPA 3.89) · BS in Computer Science (ABV-IIITM Gwalior) · AWS Certified Cloud Practitioner
 
 ---
 
 ⭐️ *Exploring the boundary between causal inference, model interpretability, and real-world impact, one dataset at a time. Hit me up on any platform if you'd like to connect!*
 
+<!-- Update checklist when pushing: employer/dates, "Open to" line, Selected work numbers (match the resume), pinned repos. -->
